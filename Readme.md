@@ -22,11 +22,10 @@ https://octaviojunior.github.io/Drawings-and-Animations/index.html
 <h2 align="center"> :memo: Lista atual das artes: :memo: </h2>
 <ol>
   <li>Pokebola</li>
+  <li>Triforce</li>
+
 </ol>
 
 <br><br><br>
-<<<<<<< HEAD
+
 <h1> :+1: ENJOY :+1: </h1>
-=======
-<h1> :+1: ENJOY :+1: </h1>
->>>>>>> 863a549c8fac5c5b0ea7ae96621992930c31cbd6
