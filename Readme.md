@@ -25,4 +25,8 @@ https://octaviojunior.github.io/Drawings-and-Animations/index.html
 </ol>
 
 <br><br><br>
+<<<<<<< HEAD
 <h1> :+1: ENJOY :+1: </h1>
+=======
+<h1> :+1: ENJOY :+1: </h1>
+>>>>>>> 863a549c8fac5c5b0ea7ae96621992930c31cbd6
